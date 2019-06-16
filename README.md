@@ -6,7 +6,7 @@ Trabalho da disciplina Algoritmos Computacionais em Grafos referente ao 4Â° perÃ
 
 # Grupo:
 
-Mateus Santos Fonseca
-Yan Max
-Henrique Alberone
-Anderson Coutinho
+-Mateus Santos Fonseca
+-Yan Max
+-Henrique Alberone
+-Anderson Coutinho
